@@ -68,10 +68,7 @@ public class AdditonalInformation {
         
         
     }
-    private AddInfo(){
-    info.put("Romania",new )
     
-    }
     
     @Override
     public void getInfo(HttpServletRequest request,HttpServletResponse response) throws IOException,ServletException
